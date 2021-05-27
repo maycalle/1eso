@@ -2,11 +2,24 @@ sup
 {
     float:right;
 }
+
 body
 {
     text-align: justify;
 }
+
 h1, h2, h3, h4, h5, h6
 {
     text-align: left;
+}
+
+.col_izqda 
+{
+    display: inline-block;
+    position: absolute;    
+}
+
+.col_dcha 
+{
+    display: inline-block;    
 }
