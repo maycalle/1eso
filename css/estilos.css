@@ -13,13 +13,20 @@ h1, h2, h3, h4, h5, h6
     text-align: left;
 }
 
+.padre 
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .col_izqda 
 {
-    display: inline-block;
-    position: absolute;    
+    display: flex;
+    flex: 300px;
 }
 
 .col_dcha 
 {
-    display: inline-block;    
+    display: flex;
+    flex: 200px;
 }
