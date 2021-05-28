@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6
 .col_izqda 
 {
     display: flex;
-    flex: 200px;
+    flex: 300px;
 }
 
 .col_dcha 
